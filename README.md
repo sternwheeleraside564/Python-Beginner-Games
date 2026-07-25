@@ -74,7 +74,10 @@ Through these projects, I practiced:
 
 1. Install Python 3 on your system.
 
-2. Clone this repository:
+2. Download or clone this repository.
 
-```bash
-git clone https://github.com/your-username/Python-Beginner-Games.git
+3. Open the required game folder.
+
+4. Run the Python file:
+
+python main.py
