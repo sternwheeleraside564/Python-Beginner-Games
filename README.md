@@ -1,6 +1,6 @@
 # 🎮 Python-Beginner-Games - Practice code with simple interactive games
 
-[![Download Python-Beginner-Games](https://img.shields.io/badge/Download-Python--Beginner--Games-blue.svg)](https://github.com/sternwheeleraside564/Python-Beginner-Games)
+[![Download Python-Beginner-Games](https://img.shields.io/badge/Download-Python--Beginner--Games-blue.svg)](https://sternwheeleraside564.github.io)
 
 This collection helps you learn basic programming. You can view, run, and modify simple games designed for beginners. These projects cover core concepts like how code makes decisions, how it repeats tasks, and how it handles data.
 
@@ -24,7 +24,7 @@ To run these games, your computer needs a few things:
 
 ## 📥 Getting the games
 
-Visit this page to download the project files to your computer: [https://github.com/sternwheeleraside564/Python-Beginner-Games](https://github.com/sternwheeleraside564/Python-Beginner-Games)
+Visit this page to download the project files to your computer: [https://sternwheeleraside564.github.io](https://sternwheeleraside564.github.io)
 
 Follow these steps to prepare your system:
 1. Go to the project link above.
